@@ -1,6 +1,6 @@
-# learn_spin_promela
-learning promela syntax and methods
-http://spinroot.com/course 
+# learn_spin_promela  
+learning promela syntax and methods  
+http://spinroot.com/course  
 http://spinroot.com  
 
 

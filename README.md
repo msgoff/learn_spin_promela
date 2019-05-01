@@ -8,4 +8,7 @@ Spin UI options
 Installing Spin and it's GUI libs (XSpin, iSpin, JSpin, EclipsePlugin)  
   http://spinroot.com/fluxbb/viewtopic.php?id=176  
   
+
+Fourth Summer School on Formal Techniques  
+http://fm.csl.sri.com/SSFT14/  
   
